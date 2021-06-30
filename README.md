@@ -1,2 +1,2 @@
 # hello-world
-to learn the use of git
+This is just an introductory aspect of my journey to learing Git. To learn the use of git
